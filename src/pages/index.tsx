@@ -16,7 +16,7 @@ export default function Home({ product }: HomeProps) {
   return (
     <>
       <Head>
-        <title>Home | Tasso</title>
+        <title>Home | Tasso Chaves</title>
       </Head>
 
       <main className={styles.contentContainer}>
